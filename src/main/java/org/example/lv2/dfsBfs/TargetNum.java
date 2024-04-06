@@ -1,4 +1,4 @@
-package org.example.lv1.dfsBfs;
+package org.example.lv2.dfsBfs;
 
 public class TargetNum {
 
