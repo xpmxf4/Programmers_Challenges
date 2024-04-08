@@ -44,8 +44,6 @@ public class GameMapShortestDist {
             int y = q.poll();
             int dist = q.poll();
 
-            System.out.printf("(x, y) = (%d, %d)\n", x, y);
-
             // 도달한 경우
             if (x == n && y == m) {
                 answer = dist;
