@@ -10,6 +10,7 @@ public class PhoneBook {
 
     public static boolean solution(String[] phone_book) {
         boolean answer = true;
+        String word = "hit";
 
         // sorting
         Arrays.sort(phone_book);
