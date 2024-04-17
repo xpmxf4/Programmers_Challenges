@@ -42,3 +42,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# coding test
+src/main/java/org/example/onda
+src/main/java/org/example/onda/**
