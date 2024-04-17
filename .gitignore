@@ -46,3 +46,5 @@ bin/
 # coding test
 src/main/java/org/example/onda
 src/main/java/org/example/onda/**
+src/main/java/org/example/somewhere
+src/main/java/org/example/somewhere/**
